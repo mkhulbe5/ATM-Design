@@ -1,0 +1,1 @@
+To design the ATM I have made use of state design pattern for managing the multiple user operation such as inserting card ,cash withdrawl , deposit amount and to handle the cash processing part i have implemented the chain of responsibility desing pattern.
